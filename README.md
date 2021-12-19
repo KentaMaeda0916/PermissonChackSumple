@@ -1,4 +1,4 @@
-# PermissonChckSumple
+# PermissonCheckSumple
 
 通知
 位置情報
